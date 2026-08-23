@@ -11,7 +11,7 @@ public class Variable {
 Variable v1 = new Variable(); // object
 v1.Add();// method calling
 } 
-}
+} 
  
  
  
